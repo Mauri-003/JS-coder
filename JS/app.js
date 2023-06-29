@@ -33,9 +33,9 @@
       
       let numeroTel = "54-4564-789099";
       if (validarNumeroTelefono(numeroTel)) {
-        console.log("El número de teléfono es válido.");
+        alert("El número de teléfono es válido.");
       } else {
-        console.log("El número de teléfono no es válido.");
+        alert("El número de teléfono no es válido.");
       }
     
  
